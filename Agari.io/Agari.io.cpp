@@ -67,7 +67,7 @@ Uint32 player1_shield_break_time = 0;
 Uint32 player2_shield_break_time = 0;
 // Variables for resetting state after death and rebirth
 void respawnPlayer(bool& player_alive, int& x, int& y, Uint32& death_time, Uint32& shield_break_time, bool& shieldboost, int respawn_x, int respawn_y) {
-    // Возрождение игрока
+
     if (!player_alive && SDL_GetTicks() - death_time > 3000) { // Respawn time = 3 seconds
         player_alive = true;
         x = respawn_x; // New coordinates
