@@ -1,0 +1,4 @@
+C:\Users\bogdan\Documents\agario\agario\Agari.io\Debug\Agari.io.exe
+C:\Users\bogdan\Documents\agario\agario\Agari.io\Debug\Agari.io.pdb
+C:\Users\User\Desktop\agario-master\Agari.io\Debug\Agari.io.exe
+C:\Users\User\Desktop\agario-master\Agari.io\Debug\Agari.io.pdb

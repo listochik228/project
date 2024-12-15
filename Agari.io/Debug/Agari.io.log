@@ -1,0 +1,10 @@
+﻿  Agari.io.cpp
+C:\Users\User\Desktop\agario-master\Agari.io\Agari.io.cpp(93,34): warning C4305: =: усечение из "__int64" в "int"
+C:\Users\User\Desktop\agario-master\Agari.io\Agari.io.cpp(93,15): warning C4309: =: усечение константного значения
+C:\Users\User\Desktop\agario-master\Agari.io\Agari.io.cpp(94,34): warning C4305: =: усечение из "__int64" в "int"
+C:\Users\User\Desktop\agario-master\Agari.io\Agari.io.cpp(94,15): warning C4309: =: усечение константного значения
+C:\Users\User\Desktop\agario-master\Agari.io\Agari.io.cpp(105,34): warning C4305: =: усечение из "__int64" в "int"
+C:\Users\User\Desktop\agario-master\Agari.io\Agari.io.cpp(105,15): warning C4309: =: усечение константного значения
+C:\Users\User\Desktop\agario-master\Agari.io\Agari.io.cpp(106,34): warning C4305: =: усечение из "__int64" в "int"
+C:\Users\User\Desktop\agario-master\Agari.io\Agari.io.cpp(106,15): warning C4309: =: усечение константного значения
+  Agari.io.vcxproj -> C:\Users\User\Desktop\agario-master\Agari.io\Debug\Agari.io.exe
